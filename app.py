@@ -72,7 +72,7 @@ with col2:
 with col3:
     generate_it = st.checkbox("💡Interveiw Tips", value=True)
 
-st.slider("🎛️ Temperature (Model Creativity))", 0.0, 1.0, 0.7, 0.1, key="temperature")
+st.slider("🎛️ Temperature (Model Creativity)", 0.0, 1.0, 0.7, 0.1, key="temperature")
 
 st.header("3. Boost!")
 
