@@ -1,0 +1,5 @@
+.env
+.envx
+_pycachee_/
+*.pyc
+*.DS_Store
